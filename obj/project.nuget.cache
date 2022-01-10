@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "BJ7mdfRIo3nbskwQP7bC/DNlyvtO72IDYDic6xzRR4XflV8gy9xyXVJ2H5HkIC+f09hrtJB4mR5Aecn55BopBA==",
+  "dgSpecHash": "pHRCyeLezaF1x1KExrqJWxVvf1NC83B80EDQKcoR78JzqBRjVJex0PDSm8TNQzNA64spm+yJWtTm0+OOM3IWsw==",
   "success": true,
   "projectFilePath": "C:\\dev\\sandbox\\md2html\\md2html.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.22\\microsoft.netcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.22\\microsoft.netcore.app.runtime.osx-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.22\\microsoft.netcore.app.runtime.linux-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.22\\microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\sflanders95\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.22\\microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
