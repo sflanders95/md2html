@@ -13,7 +13,9 @@ md2html infile.md outfile.html
 
 ## Install
 
-Clone the project and either use the publish.bat(win) or publish.sh (mac/linux). Then navigate to the publish directory. For me on my mac, I linked the file to use/local/bin:
+Clone the project and either use the publish.bat(win) or publish.sh (mac/linux) to build and publish the project. Then navigate to the publish directory. On my Mac, the build is in `bin/Release/netcoreapp3.1/osx.10.12-x64/publish` and on my windows box it is in `bin\Release\netcoreapp3.1\win10-x64\publish\`
+
+For me on my mac, I also linked the application file to usr/local/bin:
 
 ```sh
 cd bin/Release/netcoreapp3.1/osx.10.12-x64/publish
