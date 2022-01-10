@@ -1,6 +1,6 @@
 # md2html
 
-This CLI program uses the [MarkDig][MARKDIG] and [ColorCode][COLORCODE] proojects to convert a markdown file into HTML without the need of a css file. Note I cloned these projects roughly back in 2019, so the code bases are probably a bit different now. I did not provide the source here but instead provided the two DLL's
+This is a CLI program that uses the [MarkDig][MARKDIG] and [ColorCode][COLORCODE] projects to convert a markdown file into HTML which doesn't need a css file. Note I cloned these projects roughly back in 2019, so the code bases are probably a bit different now. I did not provide the source here but instead provided the two DLL's in the resources directory.
 
 - xoofx/Markdig: https://github.com/xoofx/markdig/
 - ColorCode.Portable.1.0.3: https://colorcode.codeplex.com/ (link no longer works, Microsoft pulled the plug)
