@@ -7,6 +7,12 @@ This is a CLI program that uses the [MarkDig][MARKDIG] and [ColorCode][COLORCODE
 
 I think back when I cloned ColorCode from CodePlex, it was in a directory like `slater/ColorCode` and the author's name might be Bashir Souid.
 
+## .NET Core
+
+This program is built with .NET Core. If not already installed, here's how to install it:
+
+https://docs.microsoft.com/en-us/dotnet/core/install/linux
+
 ## Usage
 
 md2html infile.md outfile.html
